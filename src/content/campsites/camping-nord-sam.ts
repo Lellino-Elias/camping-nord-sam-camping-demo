@@ -16,7 +16,6 @@ const campingNordSam: CampsiteConfig = {
   brandKind: "Stadtcamping",
   regionLong: "Stadt Salzburg · Salzburger Land · Österreich",
 
-  theme: "alpin",
   heroVariant: "center",
 
   claim: "Die grüne Oase der Mozartstadt",
