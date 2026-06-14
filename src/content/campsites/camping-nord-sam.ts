@@ -33,7 +33,7 @@ const campingNordSam: CampsiteConfig = {
   pillars: [
     {
       title: "Rezeption & Shop",
-      text: "Beim Check-in erwartet dich persönliche Begrüßung — und ein kleiner Campingshop mit Kühlgetränken, Grundversorgung und Infos zur Salzburg Card direkt am Platz.",
+      text: "Beim Check-in erwartet dich persönliche Begrüßung — plus ein kleiner Campingshop mit Infos zur Salzburg Card.",
       image: { src: `${IMG}/gallery-8cb032bd6e.webp`, alt: "Rezeption und kleiner Campingshop im Camping Nord Sam" },
     },
     {
